@@ -1,0 +1,6 @@
+model: claude-fable-5-2
+context: 1000000
+max_output: 128000
+standard_rate: "$8/$40"
+fast_rate: "$16/$80"
+benchleader_index: 71.8
